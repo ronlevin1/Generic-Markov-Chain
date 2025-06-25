@@ -13,7 +13,7 @@ This project provides a generic implementation of a Markov chain in C and demons
 Clone the repo and run:
 
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/ronlevin1/Generic-Markov-Chain
 cd project-name
 make all
 ```
@@ -39,3 +39,7 @@ To generate tweets, use the following command:
 - `<number_of_tweets>`: The number of tweets to generate.
 - `<path_to_corpus>`: The file path to the text file to learn from.
 - `[words_to_read]`: (Optional) The maximum number of words to read from the corpus. If not provided, the entire file will be read.
+
+## Demo / Screenshot
+
+![Terminal Screenshot](demo_run.png)
