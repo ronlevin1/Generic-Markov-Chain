@@ -42,4 +42,4 @@ To generate tweets, use the following command:
 
 ## Demo / Screenshot
 
-![Terminal Screenshot](demo_run.png)
+![Terminal Screenshot](demo_run)
